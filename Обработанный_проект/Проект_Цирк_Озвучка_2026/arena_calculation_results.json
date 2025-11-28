@@ -1,0 +1,37 @@
+{
+  "arena": {
+    "diameter": 13.0,
+    "height": 8.0,
+    "area": 132.73228961416876,
+    "required_spl": 95.0,
+    "current_config": {
+      "count": 4,
+      "power": 800,
+      "spl": 111.83203388004043
+    },
+    "recommended_config": {
+      "count": 4,
+      "power": 1200,
+      "spl": 113.59294647059724
+    }
+  },
+  "hall": {
+    "length": 40.0,
+    "width": 30.0,
+    "height": 12.0,
+    "area": 1200.0,
+    "distance_to_last_row": 35.0,
+    "required_spl": 95.0,
+    "current_config": {
+      "count": 4,
+      "power": 500,
+      "spl": 95.16774029933278
+    },
+    "recommended_config": {
+      "count": 6,
+      "power": 1000,
+      "spl": 99.9389528465294
+    }
+  },
+  "calculation_date": "2025-11-28 22:19:35"
+}
